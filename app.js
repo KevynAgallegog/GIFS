@@ -1,5 +1,5 @@
 const url = "https://api.giphy.com/v1/gifs/search";
-const key = "&api_key=LFbuRCn1Uo6KEX69wOVNG6yrTx4OzuMY";
+const key = "&api_key=VHqRR0mi4xYmLU5B6PD6BLPZ61jWGczz";
 const limit = "&limit=30";
 let search = "?q=";
 let q = "";
